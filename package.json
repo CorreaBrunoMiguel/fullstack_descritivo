@@ -1,0 +1,24 @@
+{
+  "name": "fullstack_descritivo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorreaBrunoMiguel/fullstack_descritivo.git"
+  },
+  "keywords": [],
+  "author": "devCorrea",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CorreaBrunoMiguel/fullstack_descritivo/issues"
+  },
+  "homepage": "https://github.com/CorreaBrunoMiguel/fullstack_descritivo#readme"
+}
