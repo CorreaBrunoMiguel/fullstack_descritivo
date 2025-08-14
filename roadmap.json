@@ -1,0 +1,1270 @@
+{
+  "modulos": [
+    {
+      "id": "modulo01",
+      "titulo": "Fundamentos de Programação",
+      "fases": [
+        {
+          "id": "fase01",
+          "titulo": "Lógica de Programação (com JavaScript)",
+          "aulas": [
+            {
+              "id": "aula01",
+              "titulo": "Introdução à lógica e ambiente JS",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson01-theory.json",
+                "quiz": "lesson01-quiz.json",
+                "exercises": "lesson01-exercises.json",
+                "challenge": "lesson01-challenge.json"
+              }
+            },
+            {
+              "id": "aula02",
+              "titulo": "Variáveis (`let`, `const`) e tipos primitivos",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson02-theory.json",
+                "quiz": "lesson02-quiz.json",
+                "exercises": "lesson02-exercises.json",
+                "challenge": "lesson02-challenge.json"
+              }
+            },
+            {
+              "id": "aula03",
+              "titulo": "Conversão de tipos e coerção",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson03-theory.json",
+                "quiz": "lesson03-quiz.json",
+                "exercises": "lesson03-exercises.json",
+                "challenge": "lesson03-challenge.json"
+              }
+            },
+            {
+              "id": "aula04",
+              "titulo": "Operadores aritméticos, lógicos e relacionais",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson04-theory.json",
+                "quiz": "lesson04-quiz.json",
+                "exercises": "lesson04-exercises.json",
+                "challenge": "lesson04-challenge.json"
+              }
+            },
+            {
+              "id": "aula05",
+              "titulo": "Estruturas de controle (`if`, `else`, `switch`)",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson05-theory.json",
+                "quiz": "lesson05-quiz.json",
+                "exercises": "lesson05-exercises.json",
+                "challenge": "lesson05-challenge.json"
+              }
+            },
+            {
+              "id": "aula06",
+              "titulo": "Laços de repetição (`for`, `while`, `do...while`)",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson06-theory.json",
+                "quiz": "lesson06-quiz.json",
+                "exercises": "lesson06-exercises.json",
+                "challenge": "lesson06-challenge.json"
+              }
+            },
+            {
+              "id": "aula07",
+              "titulo": "Funções e escopo",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson07-theory.json",
+                "quiz": "lesson07-quiz.json",
+                "exercises": "lesson07-exercises.json",
+                "challenge": "lesson07-challenge.json"
+              }
+            },
+            {
+              "id": "aula08",
+              "titulo": "Funções modernas (arrow, anônimas, parâmetros padrão)",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson08-theory.json",
+                "quiz": "lesson08-quiz.json",
+                "exercises": "lesson08-exercises.json",
+                "challenge": "lesson08-challenge.json"
+              }
+            },
+            {
+              "id": "aula09",
+              "titulo": "Exercícios integradores e revisão",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson09-theory.json",
+                "quiz": "lesson09-quiz.json",
+                "exercises": "lesson09-exercises.json",
+                "challenge": "lesson09-challenge.json"
+              }
+            }
+          ]
+        },
+        {
+          "id": "fase02",
+          "titulo": "Fundamentos da Web",
+          "aulas": [
+            {
+              "id": "aula01",
+              "titulo": "Como a internet funciona (HTTP, DNS, IP)",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson01-theory.json",
+                "quiz": "lesson01-quiz.json",
+                "exercises": "lesson01-exercises.json",
+                "challenge": "lesson01-challenge.json"
+              }
+            },
+            {
+              "id": "aula02",
+              "titulo": "Estrutura básica do HTML",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson02-theory.json",
+                "quiz": "lesson02-quiz.json",
+                "exercises": "lesson02-exercises.json",
+                "challenge": "lesson02-challenge.json"
+              }
+            },
+            {
+              "id": "aula03",
+              "titulo": "Formulários e acessibilidade",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson03-theory.json",
+                "quiz": "lesson03-quiz.json",
+                "exercises": "lesson03-exercises.json",
+                "challenge": "lesson03-challenge.json"
+              }
+            },
+            {
+              "id": "aula04",
+              "titulo": "CSS básico (box model, cores, fontes)",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson04-theory.json",
+                "quiz": "lesson04-quiz.json",
+                "exercises": "lesson04-exercises.json",
+                "challenge": "lesson04-challenge.json"
+              }
+            },
+            {
+              "id": "aula05",
+              "titulo": "Flexbox e Grid",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson05-theory.json",
+                "quiz": "lesson05-quiz.json",
+                "exercises": "lesson05-exercises.json",
+                "challenge": "lesson05-challenge.json"
+              }
+            },
+            {
+              "id": "aula06",
+              "titulo": "Responsividade e Mobile First",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson06-theory.json",
+                "quiz": "lesson06-quiz.json",
+                "exercises": "lesson06-exercises.json",
+                "challenge": "lesson06-challenge.json"
+              }
+            },
+            {
+              "id": "aula07",
+              "titulo": "Boas práticas de organização do CSS",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson07-theory.json",
+                "quiz": "lesson07-quiz.json",
+                "exercises": "lesson07-exercises.json",
+                "challenge": "lesson07-challenge.json"
+              }
+            },
+            {
+              "id": "aula08",
+              "titulo": "DevTools e produtividade no navegador",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson08-theory.json",
+                "quiz": "lesson08-quiz.json",
+                "exercises": "lesson08-exercises.json",
+                "challenge": "lesson08-challenge.json"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modulo03",
+      "titulo": "Framework Front-End (React.js)",
+      "fases": [
+        {
+          "id": "fase01",
+          "titulo": "Fundamentos do React",
+          "aulas": [
+            {
+              "id": "aula01",
+              "titulo": "Introdução ao React e JSX",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson01-theory.json",
+                "quiz": "lesson01-quiz.json",
+                "exercises": "lesson01-exercises.json",
+                "challenge": "lesson01-challenge.json"
+              }
+            },
+            {
+              "id": "aula02",
+              "titulo": "Componentes e props",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson02-theory.json",
+                "quiz": "lesson02-quiz.json",
+                "exercises": "lesson02-exercises.json",
+                "challenge": "lesson02-challenge.json"
+              }
+            },
+            {
+              "id": "aula03",
+              "titulo": "Estado (useState)",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson03-theory.json",
+                "quiz": "lesson03-quiz.json",
+                "exercises": "lesson03-exercises.json",
+                "challenge": "lesson03-challenge.json"
+              }
+            },
+            {
+              "id": "aula04",
+              "titulo": "Efeitos colaterais (useEffect)",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson04-theory.json",
+                "quiz": "lesson04-quiz.json",
+                "exercises": "lesson04-exercises.json",
+                "challenge": "lesson04-challenge.json"
+              }
+            },
+            {
+              "id": "aula05",
+              "titulo": "Eventos no React",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson05-theory.json",
+                "quiz": "lesson05-quiz.json",
+                "exercises": "lesson05-exercises.json",
+                "challenge": "lesson05-challenge.json"
+              }
+            },
+            {
+              "id": "aula06",
+              "titulo": "Renderização condicional e listas",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson06-theory.json",
+                "quiz": "lesson06-quiz.json",
+                "exercises": "lesson06-exercises.json",
+                "challenge": "lesson06-challenge.json"
+              }
+            },
+            {
+              "id": "aula07",
+              "titulo": "Formulários controlados",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson07-theory.json",
+                "quiz": "lesson07-quiz.json",
+                "exercises": "lesson07-exercises.json",
+                "challenge": "lesson07-challenge.json"
+              }
+            },
+            {
+              "id": "aula08",
+              "titulo": "Boas práticas de organização",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson08-theory.json",
+                "quiz": "lesson08-quiz.json",
+                "exercises": "lesson08-exercises.json",
+                "challenge": "lesson08-challenge.json"
+              }
+            }
+          ]
+        },
+        {
+          "id": "fase02",
+          "titulo": "React Avançado",
+          "aulas": [
+            {
+              "id": "aula01",
+              "titulo": "Context API",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson01-theory.json",
+                "quiz": "lesson01-quiz.json",
+                "exercises": "lesson01-exercises.json",
+                "challenge": "lesson01-challenge.json"
+              }
+            },
+            {
+              "id": "aula02",
+              "titulo": "Hooks personalizados",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson02-theory.json",
+                "quiz": "lesson02-quiz.json",
+                "exercises": "lesson02-exercises.json",
+                "challenge": "lesson02-challenge.json"
+              }
+            },
+            {
+              "id": "aula03",
+              "titulo": "Performance (memo, useCallback, useMemo)",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson03-theory.json",
+                "quiz": "lesson03-quiz.json",
+                "exercises": "lesson03-exercises.json",
+                "challenge": "lesson03-challenge.json"
+              }
+            },
+            {
+              "id": "aula04",
+              "titulo": "React Router",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson04-theory.json",
+                "quiz": "lesson04-quiz.json",
+                "exercises": "lesson04-exercises.json",
+                "challenge": "lesson04-challenge.json"
+              }
+            },
+            {
+              "id": "aula05",
+              "titulo": "Integração com APIs",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson05-theory.json",
+                "quiz": "lesson05-quiz.json",
+                "exercises": "lesson05-exercises.json",
+                "challenge": "lesson05-challenge.json"
+              }
+            },
+            {
+              "id": "aula06",
+              "titulo": "Tratamento de erros e loading",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson06-theory.json",
+                "quiz": "lesson06-quiz.json",
+                "exercises": "lesson06-exercises.json",
+                "challenge": "lesson06-challenge.json"
+              }
+            },
+            {
+              "id": "aula07",
+              "titulo": "Testes no React (Jest, Testing Library)",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson07-theory.json",
+                "quiz": "lesson07-quiz.json",
+                "exercises": "lesson07-exercises.json",
+                "challenge": "lesson07-challenge.json"
+              }
+            },
+            {
+              "id": "aula08",
+              "titulo": "Deploy de app React",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson08-theory.json",
+                "quiz": "lesson08-quiz.json",
+                "exercises": "lesson08-exercises.json",
+                "challenge": "lesson08-challenge.json"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modulo04",
+      "titulo": "Back-End com Node.js",
+      "fases": [
+        {
+          "id": "fase01",
+          "titulo": "Fundamentos do Node.js",
+          "aulas": [
+            {
+              "id": "aula01",
+              "titulo": "Introdução ao Node.js e NPM",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson01-theory.json",
+                "quiz": "lesson01-quiz.json",
+                "exercises": "lesson01-exercises.json",
+                "challenge": "lesson01-challenge.json"
+              }
+            },
+            {
+              "id": "aula02",
+              "titulo": "Módulos internos e externos",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson02-theory.json",
+                "quiz": "lesson02-quiz.json",
+                "exercises": "lesson02-exercises.json",
+                "challenge": "lesson02-challenge.json"
+              }
+            },
+            {
+              "id": "aula03",
+              "titulo": "Manipulação de arquivos (fs)",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson03-theory.json",
+                "quiz": "lesson03-quiz.json",
+                "exercises": "lesson03-exercises.json",
+                "challenge": "lesson03-challenge.json"
+              }
+            },
+            {
+              "id": "aula04",
+              "titulo": "Eventos e Streams",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson04-theory.json",
+                "quiz": "lesson04-quiz.json",
+                "exercises": "lesson04-exercises.json",
+                "challenge": "lesson04-challenge.json"
+              }
+            },
+            {
+              "id": "aula05",
+              "titulo": "HTTP nativo",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson05-theory.json",
+                "quiz": "lesson05-quiz.json",
+                "exercises": "lesson05-exercises.json",
+                "challenge": "lesson05-challenge.json"
+              }
+            },
+            {
+              "id": "aula06",
+              "titulo": "Introdução ao Express.js",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson06-theory.json",
+                "quiz": "lesson06-quiz.json",
+                "exercises": "lesson06-exercises.json",
+                "challenge": "lesson06-challenge.json"
+              }
+            },
+            {
+              "id": "aula07",
+              "titulo": "Middlewares",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson07-theory.json",
+                "quiz": "lesson07-quiz.json",
+                "exercises": "lesson07-exercises.json",
+                "challenge": "lesson07-challenge.json"
+              }
+            },
+            {
+              "id": "aula08",
+              "titulo": "Rotas e controllers",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson08-theory.json",
+                "quiz": "lesson08-quiz.json",
+                "exercises": "lesson08-exercises.json",
+                "challenge": "lesson08-challenge.json"
+              }
+            }
+          ]
+        },
+        {
+          "id": "fase02",
+          "titulo": "Banco de Dados e API",
+          "aulas": [
+            {
+              "id": "aula01",
+              "titulo": "Fundamentos de bancos de dados (SQL vs NoSQL)",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson01-theory.json",
+                "quiz": "lesson01-quiz.json",
+                "exercises": "lesson01-exercises.json",
+                "challenge": "lesson01-challenge.json"
+              }
+            },
+            {
+              "id": "aula02",
+              "titulo": "CRUD com MongoDB",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson02-theory.json",
+                "quiz": "lesson02-quiz.json",
+                "exercises": "lesson02-exercises.json",
+                "challenge": "lesson02-challenge.json"
+              }
+            },
+            {
+              "id": "aula03",
+              "titulo": "CRUD com PostgreSQL",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson03-theory.json",
+                "quiz": "lesson03-quiz.json",
+                "exercises": "lesson03-exercises.json",
+                "challenge": "lesson03-challenge.json"
+              }
+            },
+            {
+              "id": "aula04",
+              "titulo": "Integração Node + DB",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson04-theory.json",
+                "quiz": "lesson04-quiz.json",
+                "exercises": "lesson04-exercises.json",
+                "challenge": "lesson04-challenge.json"
+              }
+            },
+            {
+              "id": "aula05",
+              "titulo": "Autenticação com JWT",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson05-theory.json",
+                "quiz": "lesson05-quiz.json",
+                "exercises": "lesson05-exercises.json",
+                "challenge": "lesson05-challenge.json"
+              }
+            },
+            {
+              "id": "aula06",
+              "titulo": "Upload de arquivos",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson06-theory.json",
+                "quiz": "lesson06-quiz.json",
+                "exercises": "lesson06-exercises.json",
+                "challenge": "lesson06-challenge.json"
+              }
+            },
+            {
+              "id": "aula07",
+              "titulo": "Documentação com Swagger",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson07-theory.json",
+                "quiz": "lesson07-quiz.json",
+                "exercises": "lesson07-exercises.json",
+                "challenge": "lesson07-challenge.json"
+              }
+            },
+            {
+              "id": "aula08",
+              "titulo": "Deploy de API no Render/Vercel",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson08-theory.json",
+                "quiz": "lesson08-quiz.json",
+                "exercises": "lesson08-exercises.json",
+                "challenge": "lesson08-challenge.json"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modulo05",
+      "titulo": "Integração FullStack",
+      "fases": [
+        {
+          "id": "fase01",
+          "titulo": "Comunicação Front-End + Back-End",
+          "aulas": [
+            {
+              "id": "aula01",
+              "titulo": "Revisão de APIs REST",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson01-theory.json",
+                "quiz": "lesson01-quiz.json",
+                "exercises": "lesson01-exercises.json",
+                "challenge": "lesson01-challenge.json"
+              }
+            },
+            {
+              "id": "aula02",
+              "titulo": "Integração com Fetch/Axios",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson02-theory.json",
+                "quiz": "lesson02-quiz.json",
+                "exercises": "lesson02-exercises.json",
+                "challenge": "lesson02-challenge.json"
+              }
+            },
+            {
+              "id": "aula03",
+              "titulo": "Manipulação de respostas e erros",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson03-theory.json",
+                "quiz": "lesson03-quiz.json",
+                "exercises": "lesson03-exercises.json",
+                "challenge": "lesson03-challenge.json"
+              }
+            },
+            {
+              "id": "aula04",
+              "titulo": "Autenticação no Front-End",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson04-theory.json",
+                "quiz": "lesson04-quiz.json",
+                "exercises": "lesson04-exercises.json",
+                "challenge": "lesson04-challenge.json"
+              }
+            },
+            {
+              "id": "aula05",
+              "titulo": "Cookies e localStorage",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson05-theory.json",
+                "quiz": "lesson05-quiz.json",
+                "exercises": "lesson05-exercises.json",
+                "challenge": "lesson05-challenge.json"
+              }
+            },
+            {
+              "id": "aula06",
+              "titulo": "Proteção de rotas",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson06-theory.json",
+                "quiz": "lesson06-quiz.json",
+                "exercises": "lesson06-exercises.json",
+                "challenge": "lesson06-challenge.json"
+              }
+            },
+            {
+              "id": "aula07",
+              "titulo": "Upload e download de arquivos",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson07-theory.json",
+                "quiz": "lesson07-quiz.json",
+                "exercises": "lesson07-exercises.json",
+                "challenge": "lesson07-challenge.json"
+              }
+            },
+            {
+              "id": "aula08",
+              "titulo": "Testes integrados",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson08-theory.json",
+                "quiz": "lesson08-quiz.json",
+                "exercises": "lesson08-exercises.json",
+                "challenge": "lesson08-challenge.json"
+              }
+            }
+          ]
+        },
+        {
+          "id": "fase02",
+          "titulo": "Mini Projeto FullStack",
+          "aulas": [
+            {
+              "id": "aula01",
+              "titulo": "Planejamento",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson01-theory.json",
+                "quiz": "lesson01-quiz.json",
+                "exercises": "lesson01-exercises.json",
+                "challenge": "lesson01-challenge.json"
+              }
+            },
+            {
+              "id": "aula02",
+              "titulo": "Implementação do Back-End",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson02-theory.json",
+                "quiz": "lesson02-quiz.json",
+                "exercises": "lesson02-exercises.json",
+                "challenge": "lesson02-challenge.json"
+              }
+            },
+            {
+              "id": "aula03",
+              "titulo": "Implementação do Front-End",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson03-theory.json",
+                "quiz": "lesson03-quiz.json",
+                "exercises": "lesson03-exercises.json",
+                "challenge": "lesson03-challenge.json"
+              }
+            },
+            {
+              "id": "aula04",
+              "titulo": "Deploy integrado",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson04-theory.json",
+                "quiz": "lesson04-quiz.json",
+                "exercises": "lesson04-exercises.json",
+                "challenge": "lesson04-challenge.json"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modulo06",
+      "titulo": "DevOps e Deploy",
+      "fases": [
+        {
+          "id": "fase01",
+          "titulo": "Controle de Versão e CI/CD",
+          "aulas": [
+            {
+              "id": "aula01",
+              "titulo": "Git e GitHub avançado",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson01-theory.json",
+                "quiz": "lesson01-quiz.json",
+                "exercises": "lesson01-exercises.json",
+                "challenge": "lesson01-challenge.json"
+              }
+            },
+            {
+              "id": "aula02",
+              "titulo": "Branches, merges e PRs",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson02-theory.json",
+                "quiz": "lesson02-quiz.json",
+                "exercises": "lesson02-exercises.json",
+                "challenge": "lesson02-challenge.json"
+              }
+            },
+            {
+              "id": "aula03",
+              "titulo": "GitHub Actions",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson03-theory.json",
+                "quiz": "lesson03-quiz.json",
+                "exercises": "lesson03-exercises.json",
+                "challenge": "lesson03-challenge.json"
+              }
+            },
+            {
+              "id": "aula04",
+              "titulo": "Testes automatizados no pipeline",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson04-theory.json",
+                "quiz": "lesson04-quiz.json",
+                "exercises": "lesson04-exercises.json",
+                "challenge": "lesson04-challenge.json"
+              }
+            },
+            {
+              "id": "aula05",
+              "titulo": "Deploy automático",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson05-theory.json",
+                "quiz": "lesson05-quiz.json",
+                "exercises": "lesson05-exercises.json",
+                "challenge": "lesson05-challenge.json"
+              }
+            }
+          ]
+        },
+        {
+          "id": "fase02",
+          "titulo": "Infraestrutura",
+          "aulas": [
+            {
+              "id": "aula01",
+              "titulo": "Fundamentos de servidores",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson01-theory.json",
+                "quiz": "lesson01-quiz.json",
+                "exercises": "lesson01-exercises.json",
+                "challenge": "lesson01-challenge.json"
+              }
+            },
+            {
+              "id": "aula02",
+              "titulo": "Docker e containers",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson02-theory.json",
+                "quiz": "lesson02-quiz.json",
+                "exercises": "lesson02-exercises.json",
+                "challenge": "lesson02-challenge.json"
+              }
+            },
+            {
+              "id": "aula03",
+              "titulo": "Docker Compose",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson03-theory.json",
+                "quiz": "lesson03-quiz.json",
+                "exercises": "lesson03-exercises.json",
+                "challenge": "lesson03-challenge.json"
+              }
+            },
+            {
+              "id": "aula04",
+              "titulo": "Hospedagem em nuvem (AWS, Render, Railway)",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson04-theory.json",
+                "quiz": "lesson04-quiz.json",
+                "exercises": "lesson04-exercises.json",
+                "challenge": "lesson04-challenge.json"
+              }
+            },
+            {
+              "id": "aula05",
+              "titulo": "Monitoramento e logs",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson05-theory.json",
+                "quiz": "lesson05-quiz.json",
+                "exercises": "lesson05-exercises.json",
+                "challenge": "lesson05-challenge.json"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modulo07",
+      "titulo": "Boas Práticas e Arquitetura",
+      "fases": [
+        {
+          "id": "fase01",
+          "titulo": "Clean Code e Padrões",
+          "aulas": [
+            {
+              "id": "aula01",
+              "titulo": "Princípios de código limpo",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson01-theory.json",
+                "quiz": "lesson01-quiz.json",
+                "exercises": "lesson01-exercises.json",
+                "challenge": "lesson01-challenge.json"
+              }
+            },
+            {
+              "id": "aula02",
+              "titulo": "Nomenclatura e organização",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson02-theory.json",
+                "quiz": "lesson02-quiz.json",
+                "exercises": "lesson02-exercises.json",
+                "challenge": "lesson02-challenge.json"
+              }
+            },
+            {
+              "id": "aula03",
+              "titulo": "DRY, KISS, YAGNI",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson03-theory.json",
+                "quiz": "lesson03-quiz.json",
+                "exercises": "lesson03-exercises.json",
+                "challenge": "lesson03-challenge.json"
+              }
+            },
+            {
+              "id": "aula04",
+              "titulo": "Tratamento de erros global",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson04-theory.json",
+                "quiz": "lesson04-quiz.json",
+                "exercises": "lesson04-exercises.json",
+                "challenge": "lesson04-challenge.json"
+              }
+            }
+          ]
+        },
+        {
+          "id": "fase02",
+          "titulo": "Arquitetura de Software",
+          "aulas": [
+            {
+              "id": "aula01",
+              "titulo": "MVC",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson01-theory.json",
+                "quiz": "lesson01-quiz.json",
+                "exercises": "lesson01-exercises.json",
+                "challenge": "lesson01-challenge.json"
+              }
+            },
+            {
+              "id": "aula02",
+              "titulo": "Arquitetura em camadas",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson02-theory.json",
+                "quiz": "lesson02-quiz.json",
+                "exercises": "lesson02-exercises.json",
+                "challenge": "lesson02-challenge.json"
+              }
+            },
+            {
+              "id": "aula03",
+              "titulo": "APIs escaláveis",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson03-theory.json",
+                "quiz": "lesson03-quiz.json",
+                "exercises": "lesson03-exercises.json",
+                "challenge": "lesson03-challenge.json"
+              }
+            },
+            {
+              "id": "aula04",
+              "titulo": "SOLID",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson04-theory.json",
+                "quiz": "lesson04-quiz.json",
+                "exercises": "lesson04-exercises.json",
+                "challenge": "lesson04-challenge.json"
+              }
+            },
+            {
+              "id": "aula05",
+              "titulo": "Domain-Driven Design",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson05-theory.json",
+                "quiz": "lesson05-quiz.json",
+                "exercises": "lesson05-exercises.json",
+                "challenge": "lesson05-challenge.json"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modulo08",
+      "titulo": "Projetos Profissionais",
+      "fases": [
+        {
+          "id": "fase01",
+          "titulo": "Projeto 01 – Sistema de Gestão",
+          "aulas": [
+            {
+              "id": "aula01",
+              "titulo": "Levantamento de requisitos",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson01-theory.json",
+                "quiz": "lesson01-quiz.json",
+                "exercises": "lesson01-exercises.json",
+                "challenge": "lesson01-challenge.json"
+              }
+            },
+            {
+              "id": "aula02",
+              "titulo": "Protótipo e design",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson02-theory.json",
+                "quiz": "lesson02-quiz.json",
+                "exercises": "lesson02-exercises.json",
+                "challenge": "lesson02-challenge.json"
+              }
+            },
+            {
+              "id": "aula03",
+              "titulo": "Back-End",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson03-theory.json",
+                "quiz": "lesson03-quiz.json",
+                "exercises": "lesson03-exercises.json",
+                "challenge": "lesson03-challenge.json"
+              }
+            },
+            {
+              "id": "aula04",
+              "titulo": "Front-End",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson04-theory.json",
+                "quiz": "lesson04-quiz.json",
+                "exercises": "lesson04-exercises.json",
+                "challenge": "lesson04-challenge.json"
+              }
+            },
+            {
+              "id": "aula05",
+              "titulo": "Integração e testes",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson05-theory.json",
+                "quiz": "lesson05-quiz.json",
+                "exercises": "lesson05-exercises.json",
+                "challenge": "lesson05-challenge.json"
+              }
+            },
+            {
+              "id": "aula06",
+              "titulo": "Deploy",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson06-theory.json",
+                "quiz": "lesson06-quiz.json",
+                "exercises": "lesson06-exercises.json",
+                "challenge": "lesson06-challenge.json"
+              }
+            }
+          ]
+        },
+        {
+          "id": "fase02",
+          "titulo": "Projeto 02 – E-commerce",
+          "aulas": [
+            {
+              "id": "aula01",
+              "titulo": "Levantamento de requisitos",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson01-theory.json",
+                "quiz": "lesson01-quiz.json",
+                "exercises": "lesson01-exercises.json",
+                "challenge": "lesson01-challenge.json"
+              }
+            },
+            {
+              "id": "aula02",
+              "titulo": "Protótipo e design",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson02-theory.json",
+                "quiz": "lesson02-quiz.json",
+                "exercises": "lesson02-exercises.json",
+                "challenge": "lesson02-challenge.json"
+              }
+            },
+            {
+              "id": "aula03",
+              "titulo": "Back-End",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson03-theory.json",
+                "quiz": "lesson03-quiz.json",
+                "exercises": "lesson03-exercises.json",
+                "challenge": "lesson03-challenge.json"
+              }
+            },
+            {
+              "id": "aula04",
+              "titulo": "Front-End",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson04-theory.json",
+                "quiz": "lesson04-quiz.json",
+                "exercises": "lesson04-exercises.json",
+                "challenge": "lesson04-challenge.json"
+              }
+            },
+            {
+              "id": "aula05",
+              "titulo": "Integração e testes",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson05-theory.json",
+                "quiz": "lesson05-quiz.json",
+                "exercises": "lesson05-exercises.json",
+                "challenge": "lesson05-challenge.json"
+              }
+            },
+            {
+              "id": "aula06",
+              "titulo": "Deploy",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson06-theory.json",
+                "quiz": "lesson06-quiz.json",
+                "exercises": "lesson06-exercises.json",
+                "challenge": "lesson06-challenge.json"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modulo09",
+      "titulo": "Diferenciais Avançados",
+      "fases": [
+        {
+          "id": "fase01",
+          "titulo": "Performance e Segurança",
+          "aulas": [
+            {
+              "id": "aula01",
+              "titulo": "Otimização de imagens e assets",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson01-theory.json",
+                "quiz": "lesson01-quiz.json",
+                "exercises": "lesson01-exercises.json",
+                "challenge": "lesson01-challenge.json"
+              }
+            },
+            {
+              "id": "aula02",
+              "titulo": "Lazy loading e code splitting",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson02-theory.json",
+                "quiz": "lesson02-quiz.json",
+                "exercises": "lesson02-exercises.json",
+                "challenge": "lesson02-challenge.json"
+              }
+            },
+            {
+              "id": "aula03",
+              "titulo": "SEO para SPAs",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson03-theory.json",
+                "quiz": "lesson03-quiz.json",
+                "exercises": "lesson03-exercises.json",
+                "challenge": "lesson03-challenge.json"
+              }
+            },
+            {
+              "id": "aula04",
+              "titulo": "Segurança no Front-End",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson04-theory.json",
+                "quiz": "lesson04-quiz.json",
+                "exercises": "lesson04-exercises.json",
+                "challenge": "lesson04-challenge.json"
+              }
+            },
+            {
+              "id": "aula05",
+              "titulo": "Segurança no Back-End",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson05-theory.json",
+                "quiz": "lesson05-quiz.json",
+                "exercises": "lesson05-exercises.json",
+                "challenge": "lesson05-challenge.json"
+              }
+            }
+          ]
+        },
+        {
+          "id": "fase02",
+          "titulo": "Tecnologias Extras",
+          "aulas": [
+            {
+              "id": "aula01",
+              "titulo": "TypeScript",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson01-theory.json",
+                "quiz": "lesson01-quiz.json",
+                "exercises": "lesson01-exercises.json",
+                "challenge": "lesson01-challenge.json"
+              }
+            },
+            {
+              "id": "aula02",
+              "titulo": "GraphQL",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson02-theory.json",
+                "quiz": "lesson02-quiz.json",
+                "exercises": "lesson02-exercises.json",
+                "challenge": "lesson02-challenge.json"
+              }
+            },
+            {
+              "id": "aula03",
+              "titulo": "WebSockets",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson03-theory.json",
+                "quiz": "lesson03-quiz.json",
+                "exercises": "lesson03-exercises.json",
+                "challenge": "lesson03-challenge.json"
+              }
+            },
+            {
+              "id": "aula04",
+              "titulo": "Serverless",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson04-theory.json",
+                "quiz": "lesson04-quiz.json",
+                "exercises": "lesson04-exercises.json",
+                "challenge": "lesson04-challenge.json"
+              }
+            },
+            {
+              "id": "aula05",
+              "titulo": "Integração com IA",
+              "status": "não iniciado",
+              "json": {
+                "theory": "lesson05-theory.json",
+                "quiz": "lesson05-quiz.json",
+                "exercises": "lesson05-exercises.json",
+                "challenge": "lesson05-challenge.json"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
